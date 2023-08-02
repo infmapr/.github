@@ -1,8 +1,9 @@
 # Infmapr developer team
-
+<div>
          <a href="">
     <img src="Infmapr website.gif" alt="Logo" style="width: 550px; height: 160px;" />
  </a>
+</div>
 <center>
 <h1>We are infmapr developer team the creators of infmapi also known as infmapr. If you have not heard of the game site, here's all you need to know.</h1>
 <h2>It is a website filled with a lot of games more than 500 for sure</h2>
