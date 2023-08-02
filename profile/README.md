@@ -1,6 +1,6 @@
 # Infmapr developer team
-   <div>
-  <a href="https://infmapi.netlify.app" class="cool-button">Open New Infmapi</a>
+    <div>
+# <a href="https://infmapi.netlify.app" class="cool-button">Open New Infmapi</a>
       </div>
 <div>
          <a href="">
@@ -15,31 +15,3 @@
 <h2>We also have proxy service on the website</h2>
 <h2>This site has one unique game selection added to it called retro games. In retro games, you have 50+ old Gameboy games that can be played on a laptop or pc </h2>
 </center>
-<style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-            background-image: url('Theme.jpg');
-            background-size: cover
-      ;
-    }
-
-    .cool-button {
-      display: inline-block;
-      padding: 15px 30px;
-      font-size: 18px;
-      color: #fff;
-      background-color: #4CAF50;
-      border-radius: 5px;
-      text-decoration: none;
-      transition: background-color 0.3s ease;
-      box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
-    }
-
-    .cool-button:hover {
-      background-color: #45a049;
-    }
-  </style>
