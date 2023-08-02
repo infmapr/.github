@@ -1,7 +1,7 @@
 # Infmapr developer team
-    <center>
+   
 # <a href="https://infmapi.netlify.app" class="cool-button">Open  Infmapi</a>
-      </center>
+      
 <div>
          <a href="">
     <img src="Infmapr website (1).gif" alt="Logo" style="width: 750px; height: 260px;" />
