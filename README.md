@@ -1,7 +1,7 @@
 # Infmapr developer team
 <div>
          <a href="">
-    <img src="Infmapr website (1).gif" alt="Logo" style="width: 550px; height: 160px;" />
+    <img src="Infmapr website (1).gif" alt="Logo" style="width: 750px; height: 260px;" />
  </a>
 </div>
 <center>
