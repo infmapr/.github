@@ -12,4 +12,4 @@
 <h2>We also have proxy service on the website</h2>
 <h2>This site has one unique game selection added to it called retro games. In retro games, you have 50+ old Gameboy games that can be played on a laptop or pc </h2>
 </center>
-<>
+
