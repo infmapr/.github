@@ -1,7 +1,8 @@
 # Infmapr developer team
    
 # <a href="https://infmapi.netlify.app" class="cool-button">Open  Infmapi</a>
-      <iframe src="infmapr.github.io"></iframe> 
+     If you want to make a  mirror of infampr
+      <iframe src="http://infmapr.github.io"></iframe> 
 <div>
          <a href="">
     <img src="Infmapr website (1).gif" alt="Logo" style="width: 750px; height: 260px;" />
